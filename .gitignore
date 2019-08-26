@@ -1,2 +1,10 @@
 *.solution.json
 *.cabal
+*target
+*build
+*project
+*.stack-work
+*_build
+*.merlin
+*.lock
+*.keep
